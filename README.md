@@ -1,5 +1,7 @@
 # Penerapan CSS Icon di dalam dokumen HTML
 
+Lihat contoh [Klik di sini](https://janzenfaidiban.github.io/penerapan-css-icon-library/)
+
 ## Bootstrap Icons
 
 Instal bootstrap icon pake link ini
