@@ -1,5 +1,15 @@
 # Penerapan CSS Icon di dalam dokumen HTML
 
+## Bootstrap Icons
+
+Instal bootstrap icon pake link ini
+
+```html
+<!-- BOOTSTRAP ICON -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet" >
+```
+
+
 
 ```html
 
