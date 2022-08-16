@@ -9,6 +9,12 @@ Instal bootstrap icon pake link ini
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet" >
 ```
 
+Buat icon facebook pake bootstrap icon
+
+```html
+<i class="bi bi-facebook me-1"></i>
+```
+
 
 
 ```html
