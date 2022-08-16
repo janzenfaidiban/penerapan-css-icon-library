@@ -12,7 +12,7 @@ Instal bootstrap icon pake link ini
 Buat icon facebook pake bootstrap icon
 
 ```html
-<i class="bi bi-facebook"></i>
+<i class="bi bi-facebook"></i> Facebook
 ```
 
 ## Font Awesome
